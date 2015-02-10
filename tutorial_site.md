@@ -1,1 +1,1 @@
-https://www.railstutorial.org/book/beginningem 'sqlite3'
+https://www.railstutorial.org/book/
